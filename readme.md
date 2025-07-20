@@ -11,42 +11,44 @@ Features include beautiful UI, real-time donation tracking, secure payments, and
 
 ---
 
-## 💻 My Favorite Tools & Technologies
+## 🛠 Technologies Used
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
-        <br>React
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
-        <br>JavaScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" />
-        <br>TypeScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="48" height="48" />
-        <br>Git
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48" />
-        <br>GitHub
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="48" height="48" />
-        <br>VS Code
-      </td>
-      <td align="center" width="96">
-        <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" width="48" height="48" />
-        <br>Linux
-      </td>
-    </tr>
-  </table>
-</div>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/vite-icon.svg" alt="Vite" width="48" height="48" />
+      <br>Vite
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="48" height="48" />
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/logo.svg" alt="Zustand" width="48" height="48" />
+      <br>Zustand
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" />
+      <br>Tailwind CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://framerusercontent.com/images/FramerMotion-icon.svg" alt="Framer Motion" width="48" height="48" />
+      <br>Framer Motion
+    </td>
+    <td align="center" width="96">
+      <img src="https://lucide.dev/logo.svg" alt="Lucide React" width="48" height="48" />
+      <br>Lucide React
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -120,18 +122,6 @@ Features include beautiful UI, real-time donation tracking, secure payments, and
 - **Categories:** Edit `src/components/CreateFundraiser.tsx` for default categories.
 - **Branding:** Replace images in `public/` and update colors in `tailwind.config.js`.
 - **Notification & Messages:** Update UI text in relevant components.
-
----
-
-## 🛠 Tech Stack
-
-- React + TypeScript
-- Vite
-- Firebase (Firestore, Auth)
-- Zustand (state management)
-- Tailwind CSS
-- Framer Motion (animations)
-- Lucide React (icons)
 
 ---
 
