@@ -34,16 +34,8 @@ Features include beautiful UI, real-time donation tracking, secure payments, and
       <br>Firebase
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/logo.svg" alt="Zustand" width="48" height="48" />
-      <br>Zustand
-    </td>
-    <td align="center" width="96">
       <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" />
       <br>Tailwind CSS
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/framer/logo/main/logo.svg" alt="Framer Motion" width="48" height="48" />
-      <br>Framer Motion
     </td>
     <td align="center" width="96">
       <img src="https://lucide.dev/logo.svg" alt="Lucide React" width="48" height="48" />
