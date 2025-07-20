@@ -13,6 +13,8 @@ Features include beautiful UI, real-time donation tracking, secure payments, and
 
 ## 🛠 Technologies Used
 
+## 🛠 Technologies Used
+
 <table>
   <tr>
     <td align="center" width="96">
@@ -24,7 +26,7 @@ Features include beautiful UI, real-time donation tracking, secure payments, and
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/vite-icon.svg" alt="Vite" width="48" height="48" />
+      <img src="https://vitejs.dev/logo.svg" alt="Vite" width="48" height="48" />
       <br>Vite
     </td>
     <td align="center" width="96">
@@ -40,7 +42,7 @@ Features include beautiful UI, real-time donation tracking, secure payments, and
       <br>Tailwind CSS
     </td>
     <td align="center" width="96">
-      <img src="https://framerusercontent.com/images/FramerMotion-icon.svg" alt="Framer Motion" width="48" height="48" />
+      <img src="https://raw.githubusercontent.com/framer/logo/main/logo.svg" alt="Framer Motion" width="48" height="48" />
       <br>Framer Motion
     </td>
     <td align="center" width="96">
