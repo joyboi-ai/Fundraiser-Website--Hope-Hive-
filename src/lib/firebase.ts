@@ -7,13 +7,13 @@ import { getFirestore } from 'firebase/firestore';
  * Contains credentials and settings for the Firebase project
  */
 const firebaseConfig = {
-  apiKey: "AIzaSyCud7Z39k6M6PjaCs9yAIeBajWWS4cQpuo",
-  authDomain: "hopehive-c660c.firebaseapp.com",
-  projectId: "hopehive-c660c",
-  storageBucket: "hopehive-c660c.firebasestorage.app",
-  messagingSenderId: "534794528490",
-  appId: "1:534794528490:web:7cd8751745021024ca5993",
-  measurementId: "G-5DFP0V4VV0"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: ""
   
 };
 
